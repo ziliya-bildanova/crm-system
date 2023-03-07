@@ -1,4 +1,4 @@
-[Open app](https://vue-crm-zilya.firebaseapp.com/)
+[Open app CRM-System](https://vue-crm-zilya.firebaseapp.com/)
 
 # crm-vue
 
