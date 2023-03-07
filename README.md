@@ -1,3 +1,5 @@
+[Open app](https://vue-crm-zilya.firebaseapp.com/)
+
 # crm-vue
 
 ## Project setup
